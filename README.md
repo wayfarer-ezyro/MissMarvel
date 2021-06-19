@@ -19,7 +19,7 @@
 
 <h2 align="center";>Marvel-English</h2>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/noobanon/missmarvel)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/wayfarer-ezyro/MissMarvel)
 
 
 <h2 align="center";>OWNER</h2>
@@ -88,5 +88,4 @@ Alternatively, [find me on telegram](https://t.me/noobanon)! (Keep all support q
 Once you've setup your database and your configuration (see below) is complete, simply run:
 
 `python3 -m marvel` #This will auto run on heroku
-
 
